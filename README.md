@@ -9,9 +9,9 @@
 />
 
 - 👨‍🎓 Sou estudante de **Ciência da Computação** na UFSCar-So
-- 💻 Trabalho no Departamento de Tecnologia da Informação e Comunicação da **UFSCar-So**
-- 💜 Sou integrante da **Beets Jr.**, empresa júnior do curso, atuo na área de Recursos Humanos e como Desenvolvedor
-- ⌨️ Tenho interesse por **Desenvolvimento Web** e Redes. Adoro pesquisar sobre **Linux e Debian** (a minha distro atual). Também adoro programar em C, e estudar estrutura de dados
+- 💻 Trabalho na **AGX Software** como Desenvolvedor Front-End
+- 💜 Sou integrante da **Beets Jr.**, empresa júnior do curso, atuo na área de Gente e Gestão e como Desenvolvedor
+- ⌨️ Tenho interesse por **Desenvolvimento Web** e Redes. Adoro pesquisar sobre **Linux e Debian** (a minha distro atual). Também adoro programar em **C**, e estudar estrutura de dados
 - 🧑‍🎤 Gosto de **Rock 'n' Roll**, ler/assistir ficções e fantasia
 
 ## Tecnologias 🚀
