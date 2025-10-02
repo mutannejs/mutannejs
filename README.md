@@ -9,8 +9,8 @@
 />
 
 - 👨‍🎓 Sou estudante de **Ciência da Computação** na UFSCar-So
-- 💻 Trabalho na **AGX Software** como Desenvolvedor Front-End
-- 💜 Sou integrante da **Beets Jr.**, empresa júnior do curso, atuo na área de Gente e Gestão e como Dev
+- 💻 Trabalho na **Exati** como Desenvolvedor Full Stack
+- 💜 Sou integrante da **Beets Jr.**, empresa júnior do curso, como membro de Gente e Gestão e desenvolvedor
 - ⌨️ Tenho interesse por **Desenvolvimento Web** e Redes. Adoro pesquisar sobre **Linux** e programar em **C**
 - 🧑‍🎤 Gosto de **Rock 'n' Roll**, ler/assistir ficções e fantasia
 
