@@ -10,11 +10,10 @@
 
 - 👨‍🎓 Sou estudante de **Ciência da Computação** na UFSCar-So
 - 💻 Trabalho na **Exati** como Desenvolvedor Full Stack
-- 💜 Sou integrante da **Beets Jr.**, empresa júnior do curso, como membro de Gente e Gestão e desenvolvedor
-- ⌨️ Tenho interesse por **Desenvolvimento Web** e Redes. Adoro pesquisar sobre **Linux** e programar em **C**
+- ⌨️ Tenho interesse por **Desenvolvimento Web** e **Linux**
 - 🧑‍🎤 Gosto de **Rock 'n' Roll**, ler/assistir ficções e fantasia
 
-## Tecnologias 🚀
+### Tecnologias 🚀
 
 ![React](https://img.shields.io/badge/react-%231e90ff?style=for-the-badge&logo=react&labelColor=%23333333&cacheSeconds=Static%20Badge)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&labelColor=%23333333)
@@ -26,10 +25,6 @@
 ![Linux](https://img.shields.io/badge/%20linux-%23daa520?style=for-the-badge&logo=linux&labelColor=%23333333&logoColor=%23ffff00&cacheSeconds=Static%20Badge)&nbsp;
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&labelColor=%23333333&logoColor=%23F7DF1E&cacheSeconds=Static%20Badge)&nbsp;
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutannejs&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
-</a>
-
-## Contato
+### Contato
 
 - _LinkedIn_: [https://www.linkedin.com/in/murillojs](https://www.linkedin.com/in/murillojs)
